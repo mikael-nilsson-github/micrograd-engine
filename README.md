@@ -1,1 +1,1 @@
-Some boilerplate code to get you started with backpropagation with reverse-mode autodiff. The code contains the four basic examples that Andrej Karpathy works with in his video: https://www.youtube.com/watch?v=VMj-3S1tku0
+Some boilerplate code in Rust to get you started with backpropagation (reverse-mode autodiff). The code contains the four basic examples that Andrej Karpathy works with in his video: https://www.youtube.com/watch?v=VMj-3S1tku0
