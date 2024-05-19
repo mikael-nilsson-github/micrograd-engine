@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "micrograd-engine"
+name = "micrograd-engine-rust"
 version = "0.1.0"
